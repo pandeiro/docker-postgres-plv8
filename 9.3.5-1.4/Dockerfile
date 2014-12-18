@@ -1,5 +1,5 @@
-FROM postgres:9.4
-MAINTAINER Chia-liang Kao <clkao@clkao.org>
+FROM postgres:9.3.5
+MAINTAINER Murphy McMahon <pandeiro.docker@gmail.com>
 
 ENV PLV8_MAJOR 1.4
 
